@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aurobindsahu363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aurobindsahu363" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aurobind-sahu-5716801b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aurobindsahu363" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aurobind sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurobind sahu" height="30" width="40" /></a>
 <a href="https://instagram.com/arvind_officialz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvind_officialz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aurobind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aurobind" height="30" width="40" /></a>
